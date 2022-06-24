@@ -1,0 +1,11 @@
+{
+  "key.category.quicklayer": "Quick Layer",
+  "key.quicklayer.all" : "Montrer/Cacher toutes les couches",
+  "key.quicklayer.cape" : "Montrer/Cacher la cape",
+  "key.quicklayer.jacket" : "Montrer/Cacher la veste",
+  "key.quicklayer.left_sleeve" : "Montrer/Cacher la manche gauche",
+  "key.quicklayer.right_sleeve" : "Montrer/Cacher la manche droite",
+  "key.quicklayer.left_pants_leg" : "Montrer/Cacher la jambe gauche",
+  "key.quicklayer.right_pants_leg" : "Montrer/Cacher la jambe droite",
+  "key.quicklayer.hat" : "Montrer/Cacher le chapeau"
+}
