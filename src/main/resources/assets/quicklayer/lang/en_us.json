@@ -1,0 +1,11 @@
+{
+  "key.category.quicklayer": "Quick Layer",
+  "key.quicklayer.all" : "Toggle All Layers",
+  "key.quicklayer.cape" : "Toggle Cape",
+  "key.quicklayer.jacket" : "Toggle Jacket Layer",
+  "key.quicklayer.left_sleeve" : "Toggle Left Sleeve Layer",
+  "key.quicklayer.right_sleeve" : "Toggle Right Sleeve Layer",
+  "key.quicklayer.left_pants_leg" : "Toggle Left Leg Layer",
+  "key.quicklayer.right_pants_leg" : "Toggle Right Leg Layer",
+  "key.quicklayer.hat" : "Toggle Hat Layer"
+}

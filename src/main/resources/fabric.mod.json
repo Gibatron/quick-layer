@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "quicklayer",
+  "version": "${version}",
+
+  "name": "Quick Layer",
+  "description": "Allows assigning keybinds to toggle skin layers.",
+  "authors": [
+    "MrTurtle"
+  ],
+
+  "license": "MIT",
+  "icon": "assets/quicklayer/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.gibsonmakes.quicklayer.QuickLayer"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "fabric-key-binding-api-v1": "*",
+    "java": ">=17"
+  }
+}
